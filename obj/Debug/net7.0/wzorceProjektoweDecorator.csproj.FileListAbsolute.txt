@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\bin\Debug\net7.0\wzorceProjektoweDecorator.exe
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\bin\Debug\net7.0\wzorceProjektoweDecorator.deps.json
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\bin\Debug\net7.0\wzorceProjektoweDecorator.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\bin\Debug\net7.0\wzorceProjektoweDecorator.dll
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\bin\Debug\net7.0\wzorceProjektoweDecorator.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.dll
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\refint\wzorceProjektoweDecorator.dll
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\wzorceProjektoweDecorator.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\zad6wzorce\wzorceProjektoweDecorator\obj\Debug\net7.0\ref\wzorceProjektoweDecorator.dll
